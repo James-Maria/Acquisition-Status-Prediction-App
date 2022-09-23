@@ -19,3 +19,7 @@
     3. Confusion Metrix - the visual representation of the Actual VS Predicted values
     4. Classification Report - used to measure the quality of predictions from a classification algorithm.
     5. Accuracy Score - number of correctly classified prediction to the total number of prediction.
+    
+ ## 3. Predictor Function
+    
+       User defined function that combines qda_model results and rf_model results to give the final prediction.
