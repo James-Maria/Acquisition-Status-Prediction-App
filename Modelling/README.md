@@ -12,13 +12,13 @@
     Low correlation between data features helps this ensemble reach better scores.
     This classifier was used to classify between all 4 classes, Operating, IPO, Acquired, and Closed.
     
-### Model Validation
+ #### Model Validation
 
-    1. Mean Absolute Error - the magnitude of difference between the prediction of an observation and the true value of that observation
-    2. Cross Validation - tells how well a classifier generalizes, specifically the range of expected errors of the classifier.
-    3. Confusion Metrix - the visual representation of the Actual VS Predicted values
-    4. Classification Report - used to measure the quality of predictions from a classification algorithm.
-    5. Accuracy Score - number of correctly classified prediction to the total number of prediction.
+        1. Mean Absolute Error - the magnitude of difference between the prediction of an observation and the true value of that observation
+        2. Cross Validation - tells how well a classifier generalizes, specifically the range of expected errors of the classifier.
+        3. Confusion Metrix - the visual representation of the Actual VS Predicted values
+        4. Classification Report - used to measure the quality of predictions from a classification algorithm.
+        5. Accuracy Score - number of correctly classified prediction to the total number of prediction.
     
  ## 3. Predictor Function
     
