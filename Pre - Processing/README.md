@@ -1,13 +1,9 @@
-# Acquisition Status Prediction App
-
-Any company and/or startup, old or new, is prone to fail at any moment. Here, we aim to predict whether the company is operating or not, based on a given set of features.
+## Data Pre - Processing
 
 ### Understanding the dataset
 The data is scrapped from Crunchbase, a platform to gain insights about the business information about public and private companies [https://www.crunchbase.com/]. It consists of basic information, like: name, funding, tags, ...etc.
 
 The label of the dataset is the acquisition status of each company: Operating, IPO, Acquired, and Closed.
-
-### Preprocessing
 
 #### A. Data cleaning
 
