@@ -7,6 +7,10 @@ The data is scrapped from Crunchbase, a platform to gain insights about the busi
 
 The label of the dataset is the acquisition status of each company: Operating, IPO, Acquired, and Closed.
 
-### App Deployment using Streamlit
+##### App deployment using Streamlit
 
-Link - http://10.58.28.172:8501/
+Link - https://james-maria-acquisition-status-prediction-app-appstat-akzo4k.streamlitapp.com/
+
+##### App deployed via Heroku
+
+Link - https://stat-pred.herokuapp.com/
